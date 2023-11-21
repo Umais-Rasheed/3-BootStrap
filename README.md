@@ -21,7 +21,6 @@ Responsive Images:
 Add the img-fluid class to make images responsive. This ensures that images scale properly based on the size of the viewport.
 html
 
-<img src="image.jpg" alt="Responsive Image" class="img-fluid">
 Navigation Bar:
 
 Use the Bootstrap Navbar component for creating responsive navigation bars. The navigation bar automatically collapses into a 
