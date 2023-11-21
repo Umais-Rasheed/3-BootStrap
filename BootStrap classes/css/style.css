@@ -1,0 +1,16 @@
+* {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.container {
+  border: 5px solid rgb(85, 85, 228);
+}
+.col {
+  min-height: 250px;
+  background: slateblue;
+}
+.box-1 {
+  min-height: 250px;
+  background: rgb(179, 179, 10);
+}
